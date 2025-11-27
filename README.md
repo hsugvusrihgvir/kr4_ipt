@@ -2,9 +2,9 @@
 
 ## Скриншоты
 
-![img.png](images/img.png)
-![img.png](images/img2.png)
-![img.png](images/img3.png)
+![img.png](images/img.jpg)
+![img.png](images/img2.jpg)
+![img.png](images/img3.jpg)
 
 
 ---
